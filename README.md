@@ -13,7 +13,7 @@ A fully serverless, AWS-powered interactive resume site built with React, Tailwi
 React | Tailwind CSS | AWS S3 | CloudFront | Lambda | API Gateway | DynamoDB | SES
 
 ## Live Demo
-[https://yourname.cloudresume.io](https://yourname.cloudresume.io)
+[https://suresh.cloudresume.io](https://suresh.cloudresume.io)
 
 ## Setup
 See `aws-deploy-guide.md` for full instructions.
